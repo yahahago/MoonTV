@@ -15,5 +15,6 @@
       "path": "/api/cron",
       "schedule": "0 1 * * *"
     }
-  ]
+  ],
+  "regions": ["sin1", "hkg1", "nrt1"]
 }
